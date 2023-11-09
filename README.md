@@ -1,2 +1,2 @@
 # Lipsumify
-Lorem Ipsum Text Generator
+Ipsumify is a simple and dynamic Lorem Ipsum text generator, designed for developers, designers, and content creators. This web application simplifies the process of generating placeholder text for various design and development purposes. With Ipsumify, users can customize the length and style of Lorem Ipsum text, making it an efficient tool for testing layouts, mockups, and prototypes.
