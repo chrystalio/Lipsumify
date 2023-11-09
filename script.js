@@ -8,7 +8,14 @@ const sentences = [
     'Sed cursus, orci at ultricies cursus, mi quam aliquam sem, sit amet interdum diam lorem eget est.',
     'Vivamus non pellentesque felis.',
     'Sed sit amet massa pharetra, egestas ipsum a, auctor lacus.',
-    'Aenean non diam orci.'
+    'Aenean non diam orci.',
+    'Fusce consequat arcu et nisi lobortis, ac lacinia augue ullamcorper.',
+    'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.',
+    'Nulla facilisi. Nullam efficitur interdum diam, vitae aliquam tortor posuere non.',
+    'Cras eget urna sed metus maximus ultrices id et magna.',
+    'Donec eget sapien non quam rhoncus ultricies id a ligula.',
+    'Curabitur ac libero ac sapien consequat aliquet.',
+    'Phasellus nec ipsum ut justo tincidunt lacinia vitae nec justo.',
 ];
 
 function getRandomElement(arr) {
